@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\bin\Debug\net8.0\lez01_02_variabili.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\bin\Debug\net8.0\lez01_02_variabili.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\bin\Debug\net8.0\lez01_02_variabili.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\bin\Debug\net8.0\lez01_02_variabili.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\bin\Debug\net8.0\lez01_02_variabili.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\refint\lez01_02_variabili.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\lez01_02_variabili.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_02_variabili\lez01_02_variabili\obj\Debug\net8.0\ref\lez01_02_variabili.dll

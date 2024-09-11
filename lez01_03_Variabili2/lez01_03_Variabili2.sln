@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lez01_03_Variabili2", "lez01_03_Variabili2\lez01_03_Variabili2.csproj", "{80E94584-A8E8-4EAF-9453-459F982C92EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E94584-A8E8-4EAF-9453-459F982C92EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E94584-A8E8-4EAF-9453-459F982C92EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E94584-A8E8-4EAF-9453-459F982C92EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E94584-A8E8-4EAF-9453-459F982C92EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85127AFD-05FB-4650-9183-5A1A584DE330}
+	EndGlobalSection
+EndGlobal

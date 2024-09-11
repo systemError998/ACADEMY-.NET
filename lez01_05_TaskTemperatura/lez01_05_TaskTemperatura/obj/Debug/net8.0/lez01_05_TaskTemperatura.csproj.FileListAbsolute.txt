@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\bin\Debug\net8.0\lez01_05_TaskTemperatura.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\bin\Debug\net8.0\lez01_05_TaskTemperatura.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\bin\Debug\net8.0\lez01_05_TaskTemperatura.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\bin\Debug\net8.0\lez01_05_TaskTemperatura.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\bin\Debug\net8.0\lez01_05_TaskTemperatura.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\refint\lez01_05_TaskTemperatura.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\lez01_05_TaskTemperatura.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_05_TaskTemperatura\lez01_05_TaskTemperatura\obj\Debug\net8.0\ref\lez01_05_TaskTemperatura.dll

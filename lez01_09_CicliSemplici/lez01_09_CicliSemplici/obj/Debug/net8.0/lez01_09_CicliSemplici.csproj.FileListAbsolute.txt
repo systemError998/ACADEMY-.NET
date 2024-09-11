@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\bin\Debug\net8.0\lez01_09_CicliSemplici.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\bin\Debug\net8.0\lez01_09_CicliSemplici.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\bin\Debug\net8.0\lez01_09_CicliSemplici.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\bin\Debug\net8.0\lez01_09_CicliSemplici.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\bin\Debug\net8.0\lez01_09_CicliSemplici.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\refint\lez01_09_CicliSemplici.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\lez01_09_CicliSemplici.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_09_CicliSemplici\lez01_09_CicliSemplici\obj\Debug\net8.0\ref\lez01_09_CicliSemplici.dll

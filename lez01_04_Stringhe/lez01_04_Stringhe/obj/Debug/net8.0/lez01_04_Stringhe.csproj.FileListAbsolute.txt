@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\bin\Debug\net8.0\lez01_04_Stringhe.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\bin\Debug\net8.0\lez01_04_Stringhe.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\bin\Debug\net8.0\lez01_04_Stringhe.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\bin\Debug\net8.0\lez01_04_Stringhe.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\bin\Debug\net8.0\lez01_04_Stringhe.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\refint\lez01_04_Stringhe.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\lez01_04_Stringhe.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez01_04_Stringhe\lez01_04_Stringhe\obj\Debug\net8.0\ref\lez01_04_Stringhe.dll
