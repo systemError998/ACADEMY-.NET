@@ -54,33 +54,81 @@
             //All'uscita del programma verrà stampato l'elenco delle persone precedentemente inserito separato da virgola.
             //TIP: crea una stringa all'inizio del programma che ti potrà essere utile per aggiungere gli invitati
 
+
             //rendo il ciclo infinito con la condizione true
             bool inserimentoAbilitato = true;
+
+            //creo la stringa fuori dal while altrimenti al suo interno, ad ogni ciclo, verrebbe distrutta e sovrascritta 
             string invitati = "";
             while (inserimentoAbilitato)
             {
-                Console.WriteLine("Inserisci nome dell'invitato");
-                string? nome = Console.ReadLine();
 
-                Console.WriteLine("Inserisci cognome dell'invitato");
-                string? cognome = Console.ReadLine();
-
-                Console.WriteLine("Inserisci numero dell'invitato");
-                string? numeroTel = Console.ReadLine();
-
-                string? invitato = $"{nome}, {cognome}, {numeroTel}.  ";
-                invitati += invitato;
-
-                Console.WriteLine("Vuoi inserire un altro invitato? Se hai finito premi Q");
+                Console.WriteLine("Vuoi inserire un invitato? Se sì, premi Y, se hai finito premi Q");
                 string risposta = Console.ReadLine();
+                if (risposta is not null)
+                    risposta = risposta.ToUpper();
 
-                if (risposta.Equals("Q"))
+                //SOLUZIONE PROF
+                switch (risposta) 
                 {
-                    Console.WriteLine(invitati);
-                    inserimentoAbilitato = false;
+                    case "Y":
+                        //todo: 
+                        Console.Write("Inserisci nome dell'invitato");
+                        //string? il ? indica che la variabile può essere nullable
+                        string? nome = Console.ReadLine();
+
+                        Console.Write("Inserisci cognome dell'invitato");
+                        string? cognome = Console.ReadLine();
+
+                        Console.Write("Inserisci numero dell'invitato");
+                        string? numeroTel = Console.ReadLine();
+
+                        // string? invitato = $"{nome}, {cognome}, {numeroTel}.  ";
+                        invitati += $"{nome} {cognome} {numeroTel}.  ";
+                        Console.WriteLine("Invitato inserito con successo.");
+
+                        break;
+                    case "Q":
+                        Console.WriteLine(invitati);
+                        // interrompo il ciclo infinito rendendo la condizionen falsa
+                        inserimentoAbilitato = !inserimentoAbilitato;
+                        break;
+
+                    default:
+                        Console.WriteLine("Comando non riconosciuto");
+                        break;
+
                 }
-                else
-                    Console.WriteLine($"{invitato}");
+
+                // SOLUZIONE INDIVIDUALE 
+
+                //Console.Write("Inserisci nome dell'invitato");
+                ////string? il ? indica che la variabile può essere nullable
+                //string? nome = Console.ReadLine();
+
+                //Console.Write("Inserisci cognome dell'invitato");
+                //string? cognome = Console.ReadLine();
+
+                //Console.Write("Inserisci numero dell'invitato");
+                //string? numeroTel = Console.ReadLine();
+
+                //string? invitato = $"{nome}, {cognome}, {numeroTel}.  ";
+                //invitati += invitato;
+
+
+
+                //if (risposta.Equals("Q"))
+                //{
+                //    Console.WriteLine(invitati);
+                //    // interrompo il ciclo infinito rendendo la condizionen falsa
+                //    inserimentoAbilitato = !inserimentoAbilitato;
+                //}
+                //else {
+                //    Console.WriteLine(invitati);
+                //    // interrompo il ciclo infinito rendendo la condizionen falsa
+                //    inserimentoAbilitato = !inserimentoAbilitato;
+                //}
+                    
 
             }
 

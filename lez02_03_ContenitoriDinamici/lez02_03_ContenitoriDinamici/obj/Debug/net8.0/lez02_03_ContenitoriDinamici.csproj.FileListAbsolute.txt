@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\bin\Debug\net8.0\lez02_03_ContenitoriDinamici.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\bin\Debug\net8.0\lez02_03_ContenitoriDinamici.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\bin\Debug\net8.0\lez02_03_ContenitoriDinamici.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\bin\Debug\net8.0\lez02_03_ContenitoriDinamici.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\bin\Debug\net8.0\lez02_03_ContenitoriDinamici.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\refint\lez02_03_ContenitoriDinamici.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\lez02_03_ContenitoriDinamici.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez02_03_ContenitoriDinamici\lez02_03_ContenitoriDinamici\obj\Debug\net8.0\ref\lez02_03_ContenitoriDinamici.dll
