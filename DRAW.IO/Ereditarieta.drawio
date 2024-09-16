@@ -1,0 +1,57 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Pagina-1" id="JrgQ7NBBk8GLmXkKAHHO">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-1" value="&lt;b&gt;VEICOLI&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="80" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-2" value="-modello: string?&lt;div&gt;-colore: string?&lt;/div&gt;&lt;div&gt;-cilindrata: int&lt;br&gt;&lt;div&gt;-ruote: int&lt;/div&gt;&lt;div&gt;-targa: string&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="110" width="246" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-3" value="+accelera()&lt;div&gt;+stampaDettaglio()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="200" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-4" value="&lt;b&gt;AUTOMOBILE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="320" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-5" value="-modello: string?&lt;div&gt;-colore: string?&lt;div&gt;-ruote: int&lt;/div&gt;&lt;div&gt;-targa: string&lt;/div&gt;&lt;/div&gt;&lt;div&gt;-stereo: bool&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="350" width="246" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-6" value="Automobile()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="440" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-7" value="&lt;b&gt;MOTO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="320" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-8" value="-modello: string?&lt;div&gt;-colore: string?&lt;div&gt;-ruote: int&lt;/div&gt;&lt;div&gt;-targa: string&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="350" width="246" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-9" value="&lt;div&gt;Moto()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="440" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-10" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.612;exitY=0.022;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" parent="1" source="YrJCvys6YjNb9FnBpRCB-4" target="YrJCvys6YjNb9FnBpRCB-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="477" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrJCvys6YjNb9FnBpRCB-12" value="" style="endArrow=block;html=1;rounded=0;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="320" as="sourcePoint" />
+            <mxPoint x="477" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="280" />
+              <mxPoint x="477" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

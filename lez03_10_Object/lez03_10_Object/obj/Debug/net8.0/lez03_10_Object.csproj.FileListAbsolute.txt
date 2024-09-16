@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\bin\Debug\net8.0\lez03_10_Object.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\bin\Debug\net8.0\lez03_10_Object.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\bin\Debug\net8.0\lez03_10_Object.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\bin\Debug\net8.0\lez03_10_Object.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\bin\Debug\net8.0\lez03_10_Object.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\refint\lez03_10_Object.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\lez03_10_Object.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_10_Object\lez03_10_Object\obj\Debug\net8.0\ref\lez03_10_Object.dll

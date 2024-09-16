@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\bin\Debug\net8.0\lez03_02_Properties.exe
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\bin\Debug\net8.0\lez03_02_Properties.deps.json
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\bin\Debug\net8.0\lez03_02_Properties.runtimeconfig.json
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\bin\Debug\net8.0\lez03_02_Properties.dll
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\bin\Debug\net8.0\lez03_02_Properties.pdb
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.AssemblyInfo.cs
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.dll
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\refint\lez03_02_Properties.dll
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.pdb
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\lez03_02_Properties.genruntimeconfig.cache
+C:\Users\Utente\source\repos\lez03_02_Properties\lez03_02_Properties\obj\Debug\net8.0\ref\lez03_02_Properties.dll

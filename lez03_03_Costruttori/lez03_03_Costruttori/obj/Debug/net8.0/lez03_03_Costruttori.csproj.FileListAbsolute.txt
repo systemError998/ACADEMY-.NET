@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\bin\Debug\net8.0\lez03_03_Costruttori.exe
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\bin\Debug\net8.0\lez03_03_Costruttori.deps.json
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\bin\Debug\net8.0\lez03_03_Costruttori.runtimeconfig.json
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\bin\Debug\net8.0\lez03_03_Costruttori.dll
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\bin\Debug\net8.0\lez03_03_Costruttori.pdb
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.AssemblyInfo.cs
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.dll
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\refint\lez03_03_Costruttori.dll
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.pdb
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\lez03_03_Costruttori.genruntimeconfig.cache
+C:\Users\Utente\source\repos\lez03_03_Costruttori\lez03_03_Costruttori\obj\Debug\net8.0\ref\lez03_03_Costruttori.dll

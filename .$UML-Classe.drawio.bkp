@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
+  <diagram name="Pagina-1" id="HqDfRZ2mkztdcof1Q7sX">
+    <mxGraphModel dx="1050" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-1" value="&lt;b&gt;Bottiglia&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-2" value="-marca: string?&lt;div&gt;-materiale: string?&lt;/div&gt;&lt;div&gt;-altezza: float=0&lt;/div&gt;&lt;div&gt;-diametro: float=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-3" value="+Bottiglia&lt;div&gt;+ setMarca(string) : void&lt;/div&gt;&lt;div&gt;+ getMarca() : string&lt;/div&gt;&lt;div&gt;-CalcolaVolume() : float&lt;/div&gt;&lt;div&gt;+ DettaglioGeometria() : void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-4" value="Inserisco i vari metodi, tra cui&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;- il costruttore&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;-metodi get e set con rispettivo tipo di ritorno&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="295" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-5" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;&lt;b&gt;&lt;i&gt;UML&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="13" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-6" value="Inserisco tutti gli attributi della classe&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Con il - definisco questi attributi PRIVATI&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Con il + definisco quelli PUBBLICI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jMOX2zm2aL8xRkPfPqk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0jMOX2zm2aL8xRkPfPqk-6" target="0jMOX2zm2aL8xRkPfPqk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

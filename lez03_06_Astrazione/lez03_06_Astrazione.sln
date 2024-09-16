@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lez03_06_Astrazione", "lez03_06_Astrazione\lez03_06_Astrazione.csproj", "{19704E1E-67AA-4F49-BC45-9482DFDC5B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19704E1E-67AA-4F49-BC45-9482DFDC5B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19704E1E-67AA-4F49-BC45-9482DFDC5B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19704E1E-67AA-4F49-BC45-9482DFDC5B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19704E1E-67AA-4F49-BC45-9482DFDC5B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEAE41F-429E-4E48-BF9D-58339760FC29}
+	EndGlobalSection
+EndGlobal

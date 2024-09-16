@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\lez03_01_RecapClassi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66BE367D-D53E-45E8-A19D-6BF67F2AC34B}|lez03_01_RecapClassi\\lez03_01_RecapClassi.csproj|c:\\users\\utente\\source\\repos\\lez03_01_recapclassi\\lez03_01_recapclassi\\classes\\bottiglia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BE367D-D53E-45E8-A19D-6BF67F2AC34B}|lez03_01_RecapClassi\\lez03_01_RecapClassi.csproj|solutionrelative:lez03_01_recapclassi\\classes\\bottiglia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BE367D-D53E-45E8-A19D-6BF67F2AC34B}|lez03_01_RecapClassi\\lez03_01_RecapClassi.csproj|c:\\users\\utente\\source\\repos\\lez03_01_recapclassi\\lez03_01_recapclassi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BE367D-D53E-45E8-A19D-6BF67F2AC34B}|lez03_01_RecapClassi\\lez03_01_RecapClassi.csproj|solutionrelative:lez03_01_recapclassi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bottiglia.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\lez03_01_RecapClassi\\lez03_01_RecapClassi\\Classes\\Bottiglia.cs",
+              "RelativeDocumentMoniker": "lez03_01_RecapClassi\\Classes\\Bottiglia.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\lez03_01_RecapClassi\\lez03_01_RecapClassi\\Classes\\Bottiglia.cs",
+              "RelativeToolTip": "lez03_01_RecapClassi\\Classes\\Bottiglia.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:10:41.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\lez03_01_RecapClassi\\lez03_01_RecapClassi\\Program.cs",
+              "RelativeDocumentMoniker": "lez03_01_RecapClassi\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\lez03_01_RecapClassi\\lez03_01_RecapClassi\\Program.cs",
+              "RelativeToolTip": "lez03_01_RecapClassi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:09:04.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

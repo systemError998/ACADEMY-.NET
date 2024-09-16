@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\bin\Debug\net8.0\lez03_01_RecapPoly.exe
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\bin\Debug\net8.0\lez03_01_RecapPoly.deps.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\bin\Debug\net8.0\lez03_01_RecapPoly.runtimeconfig.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\bin\Debug\net8.0\lez03_01_RecapPoly.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\bin\Debug\net8.0\lez03_01_RecapPoly.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.sourcelink.json
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\refint\lez03_01_RecapPoly.dll
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.pdb
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\lez03_01_RecapPoly.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\lez03_01_RecapPoly\lez03_01_RecapPoly\obj\Debug\net8.0\ref\lez03_01_RecapPoly.dll
