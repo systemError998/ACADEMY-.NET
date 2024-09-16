@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\lez05_01_CorrezioneEsercizio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B65F367-A805-4D2D-B36B-2045424EB938}|lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1.csproj|c:\\users\\utente\\source\\repos\\lez05_01_correzioneesercizio1\\lez05_01_correzioneesercizio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B65F367-A805-4D2D-B36B-2045424EB938}|lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1.csproj|solutionrelative:lez05_01_correzioneesercizio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\Program.cs",
+              "RelativeDocumentMoniker": "lez05_01_CorrezioneEsercizio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\Program.cs",
+              "RelativeToolTip": "lez05_01_CorrezioneEsercizio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:46:22.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

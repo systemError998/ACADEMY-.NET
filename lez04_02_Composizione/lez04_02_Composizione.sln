@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lez04_02_Composizione", "lez04_02_Composizione\lez04_02_Composizione.csproj", "{0DDE8E6C-A794-498B-8169-87B9B1830BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDE8E6C-A794-498B-8169-87B9B1830BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDE8E6C-A794-498B-8169-87B9B1830BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDE8E6C-A794-498B-8169-87B9B1830BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDE8E6C-A794-498B-8169-87B9B1830BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAE34B9-120D-4804-9634-5C5A0038BD45}
+	EndGlobalSection
+EndGlobal
