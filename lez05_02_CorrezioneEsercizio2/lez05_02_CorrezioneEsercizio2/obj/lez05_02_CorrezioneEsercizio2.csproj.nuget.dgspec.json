@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1.csproj": {}
+    "C:\\Users\\Utente\\source\\repos\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1.csproj": {
+    "C:\\Users\\Utente\\source\\repos\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1.csproj",
-        "projectName": "lez05_01_CorrezioneEsercizio1",
-        "projectPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\source\\repos\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2.csproj",
+        "projectName": "lez05_02_CorrezioneEsercizio2",
+        "projectPath": "C:\\Users\\Utente\\source\\repos\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\lez05_01_CorrezioneEsercizio1\\lez05_01_CorrezioneEsercizio1\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\source\\repos\\lez05_02_CorrezioneEsercizio2\\lez05_02_CorrezioneEsercizio2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("lez05_01_CorrezioneEsercizio1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lez05_02_CorrezioneEsercizio2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+413a3103abc7ed3b8e5ab4fbb71d8c8efc8d20ef")]
-[assembly: System.Reflection.AssemblyProductAttribute("lez05_01_CorrezioneEsercizio1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("lez05_01_CorrezioneEsercizio1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("lez05_02_CorrezioneEsercizio2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lez05_02_CorrezioneEsercizio2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
