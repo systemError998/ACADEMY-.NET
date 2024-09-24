@@ -1,4 +1,4 @@
-CREATE DATABASE lez14_impiegati
+ CREATE DATABASE lez14_impiegati
 USE lez14_impiegati
 
 CREATE TABLE Impiegato(
