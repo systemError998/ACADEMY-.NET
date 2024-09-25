@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 371,
+          "DockedWidth": 532,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "lez01_DB_Inizializzazione\\Program.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP\u002BSQL\\lez01_DB_Inizializzazione\\lez01_DB_Inizializzazione\\Program.cs",
               "RelativeToolTip": "lez01_DB_Inizializzazione\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwJsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:42:36.642Z",
               "EditorCaption": ""
