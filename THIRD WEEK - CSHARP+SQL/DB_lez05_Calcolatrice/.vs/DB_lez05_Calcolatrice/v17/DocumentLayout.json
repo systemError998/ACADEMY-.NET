@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP\u002BSQL\\DB_lez05_Calcolatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360687B4-9755-4DEE-B5FF-26080E5ACB80}|DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\third week - csharp\u002Bsql\\db_lez05_calcolatrice\\db_lez05_calcolatrice\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360687B4-9755-4DEE-B5FF-26080E5ACB80}|DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice.csproj|solutionrelative:db_lez05_calcolatrice\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360687B4-9755-4DEE-B5FF-26080E5ACB80}|DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\third week - csharp\u002Bsql\\db_lez05_calcolatrice\\db_lez05_calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360687B4-9755-4DEE-B5FF-26080E5ACB80}|DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice.csproj|solutionrelative:db_lez05_calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calcolatrice.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP\u002BSQL\\DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice\\Calcolatrice.cs",
+              "RelativeDocumentMoniker": "DB_lez05_Calcolatrice\\Calcolatrice.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP\u002BSQL\\DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice\\Calcolatrice.cs",
+              "RelativeToolTip": "DB_lez05_Calcolatrice\\Calcolatrice.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:14:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP\u002BSQL\\DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice\\Program.cs",
+              "RelativeDocumentMoniker": "DB_lez05_Calcolatrice\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP\u002BSQL\\DB_lez05_Calcolatrice\\DB_lez05_Calcolatrice\\Program.cs",
+              "RelativeToolTip": "DB_lez05_Calcolatrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:12:52.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

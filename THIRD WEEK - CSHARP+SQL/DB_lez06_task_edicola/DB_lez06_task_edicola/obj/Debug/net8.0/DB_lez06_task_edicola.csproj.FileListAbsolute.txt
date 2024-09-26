@@ -1,0 +1,6 @@
+C:\Users\Utente\source\repos\ACADEMY-.NET\THIRD WEEK - CSHARP+SQL\DB_lez06_task_edicola\DB_lez06_task_edicola\obj\Debug\net8.0\DB_lez06_task_edicola.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\THIRD WEEK - CSHARP+SQL\DB_lez06_task_edicola\DB_lez06_task_edicola\obj\Debug\net8.0\DB_lez06_task_edicola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ACADEMY-.NET\THIRD WEEK - CSHARP+SQL\DB_lez06_task_edicola\DB_lez06_task_edicola\obj\Debug\net8.0\DB_lez06_task_edicola.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\THIRD WEEK - CSHARP+SQL\DB_lez06_task_edicola\DB_lez06_task_edicola\obj\Debug\net8.0\DB_lez06_task_edicola.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ACADEMY-.NET\THIRD WEEK - CSHARP+SQL\DB_lez06_task_edicola\DB_lez06_task_edicola\obj\Debug\net8.0\DB_lez06_task_edicola.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ACADEMY-.NET\THIRD WEEK - CSHARP+SQL\DB_lez06_task_edicola\DB_lez06_task_edicola\obj\Debug\net8.0\DB_lez06_task_edicola.sourcelink.json
