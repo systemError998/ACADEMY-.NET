@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\FIRST WEEK - C SHARP\\lez06_02_Hashtable_Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDCD61C-0CA6-45AF-A6C2-407756203598}|lez06_02_Hashtable_Dictionary\\lez06_02_Hashtable_Dictionary.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\first week - c sharp\\lez06_02_hashtable_dictionary\\lez06_02_hashtable_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDCD61C-0CA6-45AF-A6C2-407756203598}|lez06_02_Hashtable_Dictionary\\lez06_02_Hashtable_Dictionary.csproj|solutionrelative:lez06_02_hashtable_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\FIRST WEEK - C SHARP\\lez06_02_Hashtable_Dictionary\\lez06_02_Hashtable_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "lez06_02_Hashtable_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\FIRST WEEK - C SHARP\\lez06_02_Hashtable_Dictionary\\lez06_02_Hashtable_Dictionary\\Program.cs",
+              "RelativeToolTip": "lez06_02_Hashtable_Dictionary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:20:04.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

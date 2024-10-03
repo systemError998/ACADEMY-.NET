@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\LINQ_lez05_taskino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F5F64E-4C7C-4922-B48D-A2A8A7E094B9}|LINQ_lez05_taskino\\LINQ_lez05_taskino.csproj|c:\\users\\utente\\source\\repos\\linq_lez05_taskino\\linq_lez05_taskino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F5F64E-4C7C-4922-B48D-A2A8A7E094B9}|LINQ_lez05_taskino\\LINQ_lez05_taskino.csproj|solutionrelative:linq_lez05_taskino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F5F64E-4C7C-4922-B48D-A2A8A7E094B9}|LINQ_lez05_taskino\\LINQ_lez05_taskino.csproj|c:\\users\\utente\\source\\repos\\linq_lez05_taskino\\linq_lez05_taskino\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F5F64E-4C7C-4922-B48D-A2A8A7E094B9}|LINQ_lez05_taskino\\LINQ_lez05_taskino.csproj|solutionrelative:linq_lez05_taskino\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "LINQ_lez05_taskino\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Models\\Prodotto.cs",
+              "RelativeToolTip": "LINQ_lez05_taskino\\Models\\Prodotto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:19:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_lez05_taskino\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\LINQ_lez05_taskino\\LINQ_lez05_taskino\\Program.cs",
+              "RelativeToolTip": "LINQ_lez05_taskino\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwv10AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:04:52.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\WPF_lez04_Contatti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1909473E-3D9E-4936-A1A2-58321AFE1FED}|WPF_lez04_Contatti\\WPF_lez04_Contatti.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\3 - third week - csharp\u002Bsql\\wpf_lez04_contatti\\wpf_lez04_contatti\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1909473E-3D9E-4936-A1A2-58321AFE1FED}|WPF_lez04_Contatti\\WPF_lez04_Contatti.csproj|solutionrelative:wpf_lez04_contatti\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1909473E-3D9E-4936-A1A2-58321AFE1FED}|WPF_lez04_Contatti\\WPF_lez04_Contatti.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\3 - third week - csharp\u002Bsql\\wpf_lez04_contatti\\wpf_lez04_contatti\\models\\dal\\contattodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909473E-3D9E-4936-A1A2-58321AFE1FED}|WPF_lez04_Contatti\\WPF_lez04_Contatti.csproj|solutionrelative:wpf_lez04_contatti\\models\\dal\\contattodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 439,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\WPF_lez04_Contatti\\WPF_lez04_Contatti\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_lez04_Contatti\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\WPF_lez04_Contatti\\WPF_lez04_Contatti\\MainWindow.xaml*",
+              "RelativeToolTip": "WPF_lez04_Contatti\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T09:43:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContattoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\WPF_lez04_Contatti\\WPF_lez04_Contatti\\Models\\DAL\\ContattoDAO.cs",
+              "RelativeDocumentMoniker": "WPF_lez04_Contatti\\Models\\DAL\\ContattoDAO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\WPF_lez04_Contatti\\WPF_lez04_Contatti\\Models\\DAL\\ContattoDAO.cs",
+              "RelativeToolTip": "WPF_lez04_Contatti\\Models\\DAL\\ContattoDAO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:16:11.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

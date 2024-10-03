@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|c:\\users\\utente\\source\\repos\\ef_lez02_otm\\ef_lez02_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|solutionrelative:ef_lez02_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|c:\\users\\utente\\source\\repos\\ef_lez02_otm\\ef_lez02_otm\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|solutionrelative:ef_lez02_otm\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cartum.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Models\\Cartum.cs",
+              "RelativeDocumentMoniker": "EF_lez02_otm\\Models\\Cartum.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Models\\Cartum.cs",
+              "RelativeToolTip": "EF_lez02_otm\\Models\\Cartum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:57:41.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
+              "RelativeDocumentMoniker": "EF_lez02_otm\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
+              "RelativeToolTip": "EF_lez02_otm\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:26:30.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
