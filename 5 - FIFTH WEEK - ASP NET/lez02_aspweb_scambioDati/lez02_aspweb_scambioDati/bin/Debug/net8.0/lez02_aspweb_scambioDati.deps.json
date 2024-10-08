@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lez02_aspweb_scambioDati/1.0.0": {
+        "runtime": {
+          "lez02_aspweb_scambioDati.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez02_aspweb_scambioDati/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

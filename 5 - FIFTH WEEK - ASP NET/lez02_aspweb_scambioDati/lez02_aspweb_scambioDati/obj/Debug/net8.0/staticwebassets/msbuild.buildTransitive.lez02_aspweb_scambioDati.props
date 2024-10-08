@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\lez02_aspweb_scambioDati.props" />
+</Project>
