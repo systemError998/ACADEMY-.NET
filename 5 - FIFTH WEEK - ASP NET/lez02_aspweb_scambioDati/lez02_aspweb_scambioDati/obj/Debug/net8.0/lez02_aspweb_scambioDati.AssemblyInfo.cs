@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lez02_aspweb_scambioDati")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b005c65aada33e1e03d000f91a846c854bd617e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c84bb66a36b938d73fa2e0b8cb073268320750")]
 [assembly: System.Reflection.AssemblyProductAttribute("lez02_aspweb_scambioDati")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lez02_aspweb_scambioDati")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

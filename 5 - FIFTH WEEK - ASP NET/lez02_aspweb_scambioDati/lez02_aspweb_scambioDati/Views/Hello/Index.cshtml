@@ -1,6 +1,17 @@
-﻿@*
+﻿@model lez02_aspweb_scambioDati.Models.Persona //integro il model persona così posso stampare la persona ***
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
-    <h1> Sono la view di Hello</h1>
+    string frase = $"{ViewBag.Saluta} ed ho {ViewBag.Numero} anni";
 }
+
+<h1> @ViewBag.Titolo</h1>
+<h2> @ViewBag.Sottotitolo </h2>
+<p>@frase</p>
+
+@* *** *@
+<ul>
+        <li> Nominativo: @Model.Nominativo </li>
+        <li> Nominativo: @Model.CodFis </li>
+</ul>

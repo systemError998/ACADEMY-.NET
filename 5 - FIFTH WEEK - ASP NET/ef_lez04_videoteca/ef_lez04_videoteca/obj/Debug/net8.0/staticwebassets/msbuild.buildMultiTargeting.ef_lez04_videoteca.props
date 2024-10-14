@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ef_lez04_videoteca.props" />
+</Project>

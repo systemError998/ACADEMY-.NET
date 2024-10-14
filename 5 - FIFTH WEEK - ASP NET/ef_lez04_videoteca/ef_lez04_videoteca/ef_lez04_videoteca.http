@@ -1,0 +1,6 @@
+@ef_lez04_videoteca_HostAddress = http://localhost:5110
+
+GET {{ef_lez04_videoteca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

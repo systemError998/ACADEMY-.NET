@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\",
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\EF_lez02_otm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|c:\\users\\utente\\source\\repos\\ef_lez02_otm\\ef_lez02_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\3 - third week - csharp\u002Bsql\\ef_lez02_otm\\ef_lez02_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|solutionrelative:ef_lez02_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|c:\\users\\utente\\source\\repos\\ef_lez02_otm\\ef_lez02_otm\\models\\lez06otmcartecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|solutionrelative:ef_lez02_otm\\models\\lez06otmcartecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\3 - third week - csharp\u002Bsql\\ef_lez02_otm\\ef_lez02_otm\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40BD3D-E284-4475-9F5D-A0E608757AA1}|EF_lez02_otm\\EF_lez02_otm.csproj|solutionrelative:ef_lez02_otm\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lez06OtmCarteContext.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Models\\Lez06OtmCarteContext.cs",
-              "RelativeDocumentMoniker": "EF_lez02_otm\\Models\\Lez06OtmCarteContext.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Models\\Lez06OtmCarteContext.cs",
-              "RelativeToolTip": "EF_lez02_otm\\Models\\Lez06OtmCarteContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Title": "Cartum.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\EF_lez02_otm\\EF_lez02_otm\\Models\\Cartum.cs",
+              "RelativeDocumentMoniker": "EF_lez02_otm\\Models\\Cartum.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\EF_lez02_otm\\EF_lez02_otm\\Models\\Cartum.cs",
+              "RelativeToolTip": "EF_lez02_otm\\Models\\Cartum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:29:56.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T14:57:41.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
               "RelativeDocumentMoniker": "EF_lez02_otm\\Program.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP\u002BSQL\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
               "RelativeToolTip": "EF_lez02_otm\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T14:26:30.466Z",
               "EditorCaption": ""

@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\EF_lez02_otm.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP+SQL\\EF_lez02_otm\\EF_lez02_otm\\EF_lez02_otm.csproj",
       "projectName": "EF_lez02_otm",
-      "projectPath": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\EF_lez02_otm.csproj",
+      "projectPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP+SQL\\EF_lez02_otm\\EF_lez02_otm\\EF_lez02_otm.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\source\\repos\\EF_lez02_otm\\EF_lez02_otm\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP+SQL\\EF_lez02_otm\\EF_lez02_otm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -33,7 +33,7 @@ CREATE PROCEDURE CreateOrdine
 AS
 BEGIN
 	BEGIN TRY
-		BEGIN TRANSACTION
+		 BEGIN TRANSACTION
 			IF @varQuantita < 0
 				THROW 50001, 'Quantita non consentita',1
 

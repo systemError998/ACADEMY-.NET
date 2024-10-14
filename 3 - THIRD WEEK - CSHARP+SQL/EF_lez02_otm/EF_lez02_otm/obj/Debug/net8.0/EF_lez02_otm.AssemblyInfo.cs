@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF_lez02_otm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d16e5cbb38b32a4690be6327f279f36b5a66b04a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c84bb66a36b938d73fa2e0b8cb073268320750")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF_lez02_otm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF_lez02_otm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\views\\hello\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\views\\hello\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\lez02_aspweb_scambiodati\\lez02_aspweb_scambiodati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51EA1136-D456-4800-9904-125E80F0B4A8}|lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati.csproj|solutionrelative:lez02_aspweb_scambiodati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 439,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Program.cs",
-              "RelativeDocumentMoniker": "lez02_aspweb_scambioDati\\Program.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Program.cs",
-              "RelativeToolTip": "lez02_aspweb_scambioDati\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:03:11.217Z",
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Views\\Hello\\Lista.cshtml",
+              "RelativeDocumentMoniker": "lez02_aspweb_scambioDati\\Views\\Hello\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Views\\Hello\\Lista.cshtml",
+              "RelativeToolTip": "lez02_aspweb_scambioDati\\Views\\Hello\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:50:52.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Views\\Hello\\Index.cshtml",
               "RelativeDocumentMoniker": "lez02_aspweb_scambioDati\\Views\\Hello\\Index.cshtml",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Views\\Hello\\Index.cshtml",
               "RelativeToolTip": "lez02_aspweb_scambioDati\\Views\\Hello\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-08T08:02:36.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "lez02_aspweb_scambioDati\\Models\\Persona.cs",
-              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Models\\Persona.cs",
-              "RelativeToolTip": "lez02_aspweb_scambioDati\\Models\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:01:47.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HelloController.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Controllers\\HelloController.cs",
               "RelativeDocumentMoniker": "lez02_aspweb_scambioDati\\Controllers\\HelloController.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Controllers\\HelloController.cs",
               "RelativeToolTip": "lez02_aspweb_scambioDati\\Controllers\\HelloController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T08:01:18.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\lez02_aspweb_scambioDati\\lez02_aspweb_scambioDati\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "lez02_aspweb_scambioDati\\Views\\Shared\\_Layout.cshtml",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez07_dipendenza_ciclica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d0a12b1bed8c1433aee070dcd1ee43a9a0b7086")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c84bb66a36b938d73fa2e0b8cb073268320750")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_lez07_dipendenza_ciclica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_lez07_dipendenza_ciclica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

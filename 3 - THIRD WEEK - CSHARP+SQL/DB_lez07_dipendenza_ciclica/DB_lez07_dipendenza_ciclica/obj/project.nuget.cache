@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OP1xx1F3nt8=",
+  "dgSpecHash": "nsXMLQW9NBc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\THIRD WEEK - CSHARP+SQL\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\3 - THIRD WEEK - CSHARP+SQL\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
