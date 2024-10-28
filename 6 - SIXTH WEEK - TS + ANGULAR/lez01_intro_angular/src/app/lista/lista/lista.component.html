@@ -1,0 +1,17 @@
+<h1>{{titolo}}</h1>
+
+<table class="table table-striped">
+    <thead>
+        <th> Nome </th>
+        <th>Cognome </th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let persona of elenco">
+            <td>{{ persona.nome }}</td>
+            <td>{{ persona.cognome }}</td>
+        </tr>
+    </tbody>
+
+    <p> Le persone nella lista sono:  {{ contatore }}</p>
+
+</table>

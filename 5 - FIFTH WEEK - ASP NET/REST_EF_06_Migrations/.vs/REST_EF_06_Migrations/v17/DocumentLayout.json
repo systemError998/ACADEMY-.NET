@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015083124_AggiuntaCodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST_EF_06_Migrations\\Migrations\\20241015083124_AggiuntaCodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\rest_ef_06_migrations\\rest_ef_06_migrations\\context\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|solutionrelative:rest_ef_06_migrations\\context\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\rest_ef_06_migrations\\rest_ef_06_migrations\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|solutionrelative:rest_ef_06_migrations\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015081112_AggiuntaRegistaDistribuzione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST_EF_06_Migrations\\Migrations\\20241015081112_AggiuntaRegistaDistribuzione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015075603_Iniziale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST_EF_06_Migrations\\Migrations\\20241015075603_Iniziale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\rest_ef_06_migrations\\rest_ef_06_migrations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|solutionrelative:rest_ef_06_migrations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\rest_ef_06_migrations\\rest_ef_06_migrations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99FAFC60-1FF3-40DB-8236-0CC1B2963E83}|REST_EF_06_Migrations\\REST_EF_06_Migrations.csproj|solutionrelative:rest_ef_06_migrations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241015083124_AggiuntaCodice.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015083124_AggiuntaCodice.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\Migrations\\20241015083124_AggiuntaCodice.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015083124_AggiuntaCodice.cs",
+              "RelativeToolTip": "REST_EF_06_Migrations\\Migrations\\20241015083124_AggiuntaCodice.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:31:24.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241015081112_AggiuntaRegistaDistribuzione.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015081112_AggiuntaRegistaDistribuzione.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\Migrations\\20241015081112_AggiuntaRegistaDistribuzione.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015081112_AggiuntaRegistaDistribuzione.cs",
+              "RelativeToolTip": "REST_EF_06_Migrations\\Migrations\\20241015081112_AggiuntaRegistaDistribuzione.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:11:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241015075603_Iniziale.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015075603_Iniziale.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\Migrations\\20241015075603_Iniziale.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Migrations\\20241015075603_Iniziale.cs",
+              "RelativeToolTip": "REST_EF_06_Migrations\\Migrations\\20241015075603_Iniziale.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:56:03.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Program.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Program.cs",
+              "RelativeToolTip": "REST_EF_06_Migrations\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:43:33.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Context\\CinemaContext.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\Context\\CinemaContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Context\\CinemaContext.cs",
+              "RelativeToolTip": "REST_EF_06_Migrations\\Context\\CinemaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:40:22.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\appsettings.json",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\appsettings.json",
+              "RelativeToolTip": "REST_EF_06_Migrations\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T07:38:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrations\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\REST_EF_06_Migrations\\REST_EF_06_Migrations\\Models\\Film.cs",
+              "RelativeToolTip": "REST_EF_06_Migrations\\Models\\Film.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:27:54.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

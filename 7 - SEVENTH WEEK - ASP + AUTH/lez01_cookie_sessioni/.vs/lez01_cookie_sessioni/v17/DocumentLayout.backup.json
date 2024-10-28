@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\7 - SEVENTH WEEK - ASP \u002B AUTH\\lez01_cookie_sessioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD755927-86AC-463D-8DC1-F3D4B0CBF4D2}|lez01_cookie_sessioni.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\7 - seventh week - asp \u002B auth\\lez01_cookie_sessioni\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD755927-86AC-463D-8DC1-F3D4B0CBF4D2}|lez01_cookie_sessioni.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD755927-86AC-463D-8DC1-F3D4B0CBF4D2}|lez01_cookie_sessioni.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\7 - seventh week - asp \u002B auth\\lez01_cookie_sessioni\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD755927-86AC-463D-8DC1-F3D4B0CBF4D2}|lez01_cookie_sessioni.csproj|solutionrelative:views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\7 - SEVENTH WEEK - ASP \u002B AUTH\\lez01_cookie_sessioni\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\7 - SEVENTH WEEK - ASP \u002B AUTH\\lez01_cookie_sessioni\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:43:44.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\7 - SEVENTH WEEK - ASP \u002B AUTH\\lez01_cookie_sessioni\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\7 - SEVENTH WEEK - ASP \u002B AUTH\\lez01_cookie_sessioni\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:43:12.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

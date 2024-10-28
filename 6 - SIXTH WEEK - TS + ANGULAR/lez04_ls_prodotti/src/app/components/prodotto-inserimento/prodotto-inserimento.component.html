@@ -1,0 +1,27 @@
+<h1>Inserimento</h1>
+
+<div class="form-group">
+    <label for="input-nome" class="form-label">nome</label>
+    <input type="text" id="input-nome" class="form-control" [(ngModel)]="nome" />
+</div>
+
+<div class="form-group">
+    <label for="input-descrizione" class="form-label">descrizione</label>
+    <input type="text" id="input-descrizione" class="form-control" [(ngModel)]="descrizione" />
+</div>
+
+<div class="form-group">
+    <label for="input-quantita" class="form-label">quantità</label>
+    <input type="number" id="input-quantita" class="form-control" [(ngModel)]="quantita" />
+</div>
+
+<div class="form-group">
+    <label for="input-prezzo" class="form-label">prezzo</label>
+    <input type="prezzo" id="input-prezzo" class="form-control" [(ngModel)]="prezzo" />
+</div>
+
+<button class="btn btn-primary" (click)="salva()"> salva </button>
+
+<div class="alert alert-danger" role="alert" *ngIf="errore">
+    Errore di compilazione del form
+</div>

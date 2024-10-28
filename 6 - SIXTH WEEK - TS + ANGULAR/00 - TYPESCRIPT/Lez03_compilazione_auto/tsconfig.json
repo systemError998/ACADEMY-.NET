@@ -1,0 +1,6 @@
+//FILE DI CONFIGURAZIONE (suggerisce al mio compilatore determinate azioni di configurazione)
+{
+    "compilerOptions": {
+        "outDir": "dist" //distribution => file per la distribuzione al pubblico
+    }
+}

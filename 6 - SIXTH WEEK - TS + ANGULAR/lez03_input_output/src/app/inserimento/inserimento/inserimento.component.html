@@ -1,0 +1,30 @@
+<div class="container">
+    <h1>inserisci prodotto</h1>
+
+    <div class="form-group">
+        <label for="inputNome" class="form-label">Nome</label>
+        <input type="text" class="form-control" id="inputNome" [(ngModel)]="nome" />
+    </div>
+
+    <!-- TWO WAY BINDING -->
+    <!-- L'INPUT E LA VARIABILE CHE RICEVE L'INPUT SI AGGIORNANO CONTEMPORANEAMENTE -->
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Descrizione</th>
+                <th>Prezzo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let ogg of elenco">
+                <td>{{ ogg.nom }}</td>
+                <td>{{ ogg.des }}</td>
+                <td>{{ ogg.pre }} &euro;</td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <button type="button" class="btn btn-primary" (click)="salva()">Salva</button>
+
+</div>

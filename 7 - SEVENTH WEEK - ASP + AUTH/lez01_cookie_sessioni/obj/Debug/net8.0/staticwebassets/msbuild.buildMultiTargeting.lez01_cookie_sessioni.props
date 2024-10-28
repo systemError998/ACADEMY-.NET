@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lez01_cookie_sessioni.props" />
+</Project>
