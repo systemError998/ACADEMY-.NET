@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\ef_lez04_videoteca\\ef_lez04_videoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|solutionrelative:ef_lez04_videoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\ef_lez04_videoteca\\ef_lez04_videoteca\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|solutionrelative:ef_lez04_videoteca\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\ef_lez04_videoteca\\ef_lez04_videoteca\\repositories\\videotecarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|solutionrelative:ef_lez04_videoteca\\repositories\\videotecarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\ef_lez04_videoteca\\ef_lez04_videoteca\\models\\eflez04videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|solutionrelative:ef_lez04_videoteca\\models\\eflez04videotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\ef_lez04_videoteca\\ef_lez04_videoteca\\repositories\\supportorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|solutionrelative:ef_lez04_videoteca\\repositories\\supportorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|c:\\users\\utente\\source\\repos\\academy-.net\\5 - fifth week - asp net\\ef_lez04_videoteca\\ef_lez04_videoteca\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CC256-086F-4181-BEF5-E6E11DEC7137}|ef_lez04_videoteca\\ef_lez04_videoteca.csproj|solutionrelative:ef_lez04_videoteca\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 439,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Program.cs",
+              "RelativeDocumentMoniker": "ef_lez04_videoteca\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Program.cs",
+              "RelativeToolTip": "ef_lez04_videoteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:45:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Videoteca.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Models\\Videoteca.cs",
+              "RelativeDocumentMoniker": "ef_lez04_videoteca\\Models\\Videoteca.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Models\\Videoteca.cs",
+              "RelativeToolTip": "ef_lez04_videoteca\\Models\\Videoteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:23:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideotecaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Repositories\\VideotecaRepo.cs",
+              "RelativeDocumentMoniker": "ef_lez04_videoteca\\Repositories\\VideotecaRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Repositories\\VideotecaRepo.cs",
+              "RelativeToolTip": "ef_lez04_videoteca\\Repositories\\VideotecaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:44:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupportoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Repositories\\SupportoRepo.cs",
+              "RelativeDocumentMoniker": "ef_lez04_videoteca\\Repositories\\SupportoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Repositories\\SupportoRepo.cs",
+              "RelativeToolTip": "ef_lez04_videoteca\\Repositories\\SupportoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:44:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "ef_lez04_videoteca\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "ef_lez04_videoteca\\Repositories\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:44:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfLez04VideotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Models\\EfLez04VideotecaContext.cs",
+              "RelativeDocumentMoniker": "ef_lez04_videoteca\\Models\\EfLez04VideotecaContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\ACADEMY-.NET\\5 - FIFTH WEEK - ASP NET\\ef_lez04_videoteca\\ef_lez04_videoteca\\Models\\EfLez04VideotecaContext.cs",
+              "RelativeToolTip": "ef_lez04_videoteca\\Models\\EfLez04VideotecaContext.cs",
+              "ViewState": "AgIAAAsAAAAA5EcPS+r4vxMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:40:06.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

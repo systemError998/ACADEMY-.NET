@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_08_MONGO", "REST_08_MONGO.csproj", "{F63EDA66-4076-4911-B1B4-9EC9B0813D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63EDA66-4076-4911-B1B4-9EC9B0813D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63EDA66-4076-4911-B1B4-9EC9B0813D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63EDA66-4076-4911-B1B4-9EC9B0813D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63EDA66-4076-4911-B1B4-9EC9B0813D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186F77CC-2934-4AD3-91F0-E453026D9D2C}
+	EndGlobalSection
+EndGlobal

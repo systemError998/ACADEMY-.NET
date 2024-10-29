@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ef_lez04_videoteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c84bb66a36b938d73fa2e0b8cb073268320750")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c01a3a4470caee4d1bdf8947dedd295829ddd680")]
 [assembly: System.Reflection.AssemblyProductAttribute("ef_lez04_videoteca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ef_lez04_videoteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
